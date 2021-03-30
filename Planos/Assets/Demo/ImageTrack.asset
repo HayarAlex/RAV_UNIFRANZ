@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageTrack
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4628157693159806639
+  m_GuidHigh: 4558140404245904035
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4640532753795104284
+      m_GuidHigh: 5763001442926832820
+    m_SerializedTextureGuid:
+      m_GuidLow: 8909381787611825921
+      m_GuidHigh: 12603294699198224168
+    m_Size: {x: 0.32727274, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: CocaCola_900
+    m_Texture: {fileID: 2800000, guid: 2af007017b887ba4281746f9c0e5e7ae, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4952184663659803308
+      m_GuidHigh: 14625737770380916120
+    m_SerializedTextureGuid:
+      m_GuidLow: 9058034438432891767
+      m_GuidHigh: 6322973789576019416
+    m_Size: {x: 2, y: 2}
+    m_SpecifySize: 1
+    m_Name: 47547c8abb03849bc9faf506476f5319
+    m_Texture: {fileID: 2800000, guid: 8a0c23779a547db4d8bdc83b29b7bf57, type: 3}
